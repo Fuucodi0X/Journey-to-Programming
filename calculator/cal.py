@@ -10,6 +10,7 @@ nums = [float(oprand) for oprand in oprands]
 
 value = nums[0]
 for i in range(1,len(nums)):
+    # checking each operation
     if operator == '+':
         value += nums[i]
     elif operator == '-':
