@@ -1,2 +1,2 @@
 # Welcome CHGRS
-I'll see who will commit the most🧠🦾☝️
+I'll see who will commit the most 🧠🦾☝️
